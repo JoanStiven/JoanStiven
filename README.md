@@ -12,12 +12,12 @@
 
 
 <h2 align="center">Acerca de Mí...</h2>
- 
-* 🧠 **Autoaprendizaje y Curiosidad:** Siempre dispuesto a adquirir nuevos conocimientos y expandir mi conjunto de habilidades.
-* 🤝 **Colaboración Efectiva:** Valoro el trabajo en equipo y me integro rápidamente a entornos de colaboración.
-* 📈 **Motivación Constante:** Me impulsa la búsqueda de la eficiencia y la mejora continua en todos los proyectos.
-* 💡 **Enfoque en Soluciones:** Interesado en metodologías y herramientas que optimicen procesos y resultados.
-<br>
+
+- 🧠 **Autoaprendizaje y Curiosidad:** Siempre dispuesto a adquirir nuevos conocimientos y expandir mi conjunto de habilidades.
+- 🤝 **Colaboración Efectiva:** Valoro el trabajo en equipo y me integro rápidamente a entornos de colaboración.
+- 📈 **Motivación Constante:** Me impulsa la búsqueda de la eficiencia y la mejora continua en todos los proyectos.
+- 💡 **Enfoque en Soluciones:** Interesado en metodologías y herramientas que optimicen procesos y resultados.
+
 <div align="center">
     <img src="https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg" alt="Snake GIF de Contribuciones">
 </div>
