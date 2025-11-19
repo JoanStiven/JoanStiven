@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Joan Stiven <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/></h1>
+<h1 align="center">Hola, soy Joan Stiven</h1>
  
 <div align="center">
     <img src="https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png" alt="Banner de Perfil">
@@ -21,4 +21,3 @@
 <div align="center">
     <img src="https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg" alt="Snake GIF de Contribuciones">
 </div>
-
