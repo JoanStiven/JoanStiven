@@ -9,8 +9,9 @@
 
 
 
-
-<center> ## *Sobre mi*...</center>
+<center> 
+## *Sobre mi*...
+ </center>
 - 📚 Estudiante Tecnico en analisis y desarrollo de software 
 - ✨ Capacidad de trabajo en equipo y autoaprendizaje.
 - 😄 Me motiva mejorar continuamente.
