@@ -1,56 +1,24 @@
-<h1 align="center">Hola, soy Joan Stiven</h1>
-
+<h1 align="center">Hola, soy Joan Stiven <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/></h1>
+ 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=¡Bienvenidos+a+mi+Perfil+GitHub!;Analista+y+Desarrollador+de+Software&center=true&width=400&height=40" alt="Bienvenido a mi Perfil" />
+    <img src="https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png" alt="Banner de Perfil">
 </div>
-
----
-
-## 🚀 Sobre Mí y lo que Hago
-
-Soy un apasionado **Estudiante Técnico en Análisis y Desarrollo de Software**. Actualmente me encuentro inmerso en el ecosistema del desarrollo, buscando constantemente oportunidades para aplicar mis conocimientos y crecer profesionalmente.
-
-* 📚 **Formación:** Estudiante Técnico en Análisis y Desarrollo de Software.
-* ✨ **Skills Blandas:** Alta capacidad de **autoaprendizaje** y un fuerte enfoque en el **trabajo en equipo**.
-* 🎯 **Motivación:** Me impulsa la mejora continua y la construcción de soluciones eficientes.
-* 💡 **Buscando:** Colaborar en proyectos interesantes y obtener experiencia práctica en desarrollo.
-
----
-
-## 🛠️ Stack Tecnológico
-
-Estoy trabajando y experimentando con las siguientes tecnologías:
-
-| Área | Tecnologías/Lenguajes |
-| :--- | :--- |
-| **Lenguajes Base** | `JavaScript`, `Python`, `SQL` |
-| **Frontend** | `HTML5`, `CSS3`, `Bootstrap` |
-| **Backend/Frameworks** | `Node.js`, `Express.js` |
-| **Bases de Datos** | `PostgreSQL`, `MongoDB` |
-| **Herramientas** | `Git`, `GitHub`, `Docker` |
-
----
-
-## 📊 Mi Actividad en GitHub
-
-> Muestra tu compromiso con el código. Las estadísticas son generadas por servicios externos populares.
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=**<TU_USUARIO>**&show_icons=true&theme=vue" alt="Estadísticas de GitHub" />
-
-    <img src="https://raw.githubusercontent.com/TekyaygilFethi/TekyaygilFethi/output/github-contribution-grid-snake.svg" alt="Snake animation de contribuciones" />
-</div>
-
----
-
-## 🤝 Conectemos
-
-¡Me encantaría colaborar o simplemente charlar sobre desarrollo!
-
-* **📧 Email:** `<Tu Email de Contacto>`
-* **💼 LinkedIn:** **[<Tu Nombre en LinkedIn>](<Tu URL de LinkedIn>)**
-
-<p align="center">
-    Gracias por visitar mi perfil. ¡Feliz codificación! 💻
+ 
+<p align="center"> 
+ 
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=¡Bienvenidos+a+mi+Perfil+GitHub!&center=true&width=360&height=30" alt="Bienvenidos a mi Perfil GitHub">
 </p>
+
+
+
+<h2 align="center">Acerca de Mí...</h2>
+ 
+* 🧠 **Autoaprendizaje y Curiosidad:** Siempre dispuesto a adquirir nuevos conocimientos y expandir mi conjunto de habilidades.
+* 🤝 **Colaboración Efectiva:** Valoro el trabajo en equipo y me integro rápidamente a entornos de colaboración.
+* 📈 **Motivación Constante:** Me impulsa la búsqueda de la eficiencia y la mejora continua en todos los proyectos.
+* 💡 **Enfoque en Soluciones:** Interesado en metodologías y herramientas que optimicen procesos y resultados.
+<br>
+<div align="center">
+    <img src="https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg" alt="Snake GIF de Contribuciones">
+</div>
 
