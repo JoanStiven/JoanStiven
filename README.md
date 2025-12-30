@@ -18,6 +18,3 @@
 - 📈 **Motivación Constante:** Me impulsa la búsqueda de la eficiencia y la mejora continua en todos los proyectos.
 - 💡 **Enfoque en Soluciones:** Interesado en metodologías y herramientas que optimicen procesos y resultados.
 
-<div align="center">
-    <img src="https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg" alt="Snake GIF de Contribuciones">
-</div>
