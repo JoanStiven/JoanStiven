@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Joan Stiven</h1>
+<h1 align="center">Hey I'm Joan Stiven</h1><img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px">
 <h3 align="center">Student of Software Analysis and Development</h3>
 
 <p align="center">
@@ -9,14 +9,14 @@
 
 <img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner" width="100%" />
 
-## 📌 About Me
+## About Me
 - I’m currently studying Software Analysis and Development, building a strong foundation in programming.
 - I enjoy creating solutions and improving my problem-solving skills.
 - I’m open to collaborating on projects to gain experience and grow as a developer.
 - I’m constantly learning new technologies and tools to improve every day.
 
 
-## 🧠 My Focus Areas
+## My Focus Areas
 * Software Analysis & Design
 * Application Development
 * Clean Code Practices
@@ -24,7 +24,7 @@
 * Continuous Learning
 
 
-## 📊 GitHub Stats & Trophies
+## GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/JoanStiven">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JoanStiven&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="JoanStiven's GitHub Stats" />
@@ -36,7 +36,7 @@
 </p>
 
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
 > ## Programming Languages
 <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" style="margin: 4px;" /></p>
@@ -62,7 +62,7 @@
   </a>
 </p>
 
-## 🔗 Connect with Me
+## Connect with Me
 <p align="center"><a href="joan-stiven-rios-valderrama-260a4134b" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://wa.me/3136670031" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:joanstiven883@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
 <p align="center">
