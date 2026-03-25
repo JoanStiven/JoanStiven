@@ -1,4 +1,4 @@
-<h1 align="center">Hey I'm Joan Stiven</h1><img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px">
+<h1 align="center">Hey I'm Joan Stiven <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"></h1>
 <h3 align="center">Student of Software Analysis and Development</h3>
 
 <p align="center">
